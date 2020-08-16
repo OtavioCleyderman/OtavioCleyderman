@@ -1,5 +1,3 @@
-<img width="auto" src="https://github.com/tgmarinho/tgmarinho/blob/master/banner.png">
-
 ## Olá galera, Otávio Cleyderman por aqui 👋
 
 Meu nome é Otávio, tenho 27 anos e atualmente moro em Franca-SP. Sou graduado em Administração pela UNIP e atualmente estou cursando Análise e Desenvolvimento de Sistemas na FATEC Franca. Estou me apaixonando pela programação, não só da sensação de codar mas da sensação gratificante na entrega de um projeto, ver o projeto funcionando e agregando valor, esse é o foco. Estou no início da caminhada nesse mundo vasto da programação.
