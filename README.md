@@ -4,7 +4,6 @@ Meu nome é Otávio, tenho 29 anos e atualmente moro em Franca-SP. Sou graduado 
 
  <br/> :computer: &nbsp; Trabalho no **Magazine Luiza** como analista de suporte técnico Júnior.
  <br/> :purple_heart: &nbsp; Quero colaborar com projetos que agreguem valor, que transformam, que causem impactos positivos, mudanças. É o que busco em minha vida profissional.
- <br/> :blush: &nbsp; Posso te ajudar com JavaScript puro, HTML e CSS. No momento sobre ferramentas seria isso, por enquanto.
  <br/> :rocket: &nbsp; Atualmente tenho conhecimentos em: HTML, CSS, JAVASCRIPT, REACT, BOOTSTRAP, SASS, CSS IN JS(Styled components).
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games CS:GO, Dark Orbit, valorant, series e animes.
  <br/> :e-mail: &nbsp; Fico à disposição para quem precisar de ajuda, uma nova visão em algo ou querer mais um para colaborar. Também para aqueles que quiserem ensinar, mentorar, tiverem oportunidades na área, me ajudar a evoluir nessa área que venho me apaixonando. 
