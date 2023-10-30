@@ -1,6 +1,6 @@
 ## Olá galera, Otávio Cleyderman por aqui 👋
 
-Meu nome é Otávio, tenho 30 anos e atualmente moro em Franca-SP. Sou graduado em Administração pela UNIP e atualmente estou cursando Análise e Desenvolvimento de Sistemas na FATEC Franca. Estou me apaixonando pela programação, não só da sensação de codar mas da sensação gratificante na entrega de um projeto, ver o projeto funcionando e agregando valor, esse é o foco. Estou no início da caminhada nesse mundo vasto da programação.
+Meu nome é Otávio, tenho 30 anos e atualmente moro em Franca-SP. Sou graduado em Administração pela UNIP e também em Análise e Desenvolvimento de Sistemas na FATEC Franca. Estou me apaixonando pela programação, não só da sensação de codar mas da sensação gratificante na entrega de um projeto, ver o projeto funcionando e agregando valor, esse é o foco. Estou no início da caminhada nesse mundo vasto da programação.
 
  <br/> :computer: &nbsp; Trabalho no **Magazine Luiza** como analista infraestrutura júnior.
  <br/> :purple_heart: &nbsp; Quero colaborar com projetos que agreguem valor, que transformam, que causem impactos positivos, mudanças. É o que busco em minha vida profissional.
