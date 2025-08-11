@@ -10,8 +10,8 @@ Meu nome é Otávio, tenho 32 anos e atualmente moro em Franca-SP. Sou graduado 
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-used-languages.vercel.app/OtavioCleyderman?theme=dark">
-  <img alt="Most Used Languages'" src="https://github-used-languages.vercel.app/OtavioCleyderman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-used-languages.vercel.app/OtavioCleyderman?theme=dark&config=config.json">
+  <img alt="Most Used Languages'" text-align="center" src="https://github-used-languages.vercel.app/OtavioCleyderman">
 </picture>
 
 
