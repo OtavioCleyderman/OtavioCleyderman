@@ -8,12 +8,12 @@ Meu nome é Otávio, tenho 32 anos e atualmente moro em Franca-SP. Sou graduado 
  <br/> :e-mail: &nbsp; Fico à disposição para quem precisar de ajuda, uma nova visão em algo ou querer mais um para colaborar. Também para aqueles que quiserem ensinar, mentorar, tiverem oportunidades na área, me ajudar a evoluir na área. 
  <br/> :email: &nbsp; Entre em contato comigo: <strong>LinkedIn:</strong> www.linkedin.com/in/otavio-ferraz/ <strong>|</strong> <strong>E-mail:</strong> otavio.cleydermann@gmail.com<strong>|</strong> <strong>Instagram:</strong> https://www.instagram.com/o_cleyderman/
 
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-used-languages.vercel.app/OtavioCleyderman?theme=dark&config=config.json">
-  <img alt="Most Used Languages'" text-align="center" src="https://github-used-languages.vercel.app/OtavioCleyderman">
-</picture>
-
+<div style="text-align: center;">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://github-used-languages.vercel.app/OtavioCleyderman?theme=dark&config=config.json">
+   <img alt="Most Used Languages'" src="https://github-used-languages.vercel.app/OtavioCleyderman">
+ </picture>
+</div>
 
 
 
